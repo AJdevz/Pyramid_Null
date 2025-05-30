@@ -54,7 +54,12 @@
 				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/WW/P2H7VRHMBOBGU2PDWFNBRS.uasset",
 				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4O/VZIY3ICQE112KSWZBCJ2XH.uasset",
 				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/Y3/4V2E9NW18WBP9UOE7YU1VK.uasset",
-				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/StarterContent/Materials/M_Concrete_Poured.uasset",
+				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BPI_Lasers.uasset",
+				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LasersParent.uasset",
+				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_Laser.uasset",
+				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserSpawn.uasset",
+				"B:/SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserTarget.uasset"
 			]
 		}
 	]

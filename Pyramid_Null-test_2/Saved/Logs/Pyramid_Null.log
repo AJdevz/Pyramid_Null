@@ -2243,3 +2243,250 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.30-20.16.53:735][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2410.626465
 [2025.05.30-20.16.54:735][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.30-20.16.54:735][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2411.293213, Update Interval: 359.697876
+[2025.05.30-20.23.50:334][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2827.224121
+[2025.05.30-20.23.51:334][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-20.23.51:334][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2827.890625, Update Interval: 304.213379
+[2025.05.30-20.29.50:262][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3187.146973
+[2025.05.30-20.29.50:379][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-20.29.50:379][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3187.254883, Update Interval: 358.859222
+[2025.05.30-20.36.31:325][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3588.203125
+[2025.05.30-20.36.32:325][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-20.36.32:325][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3588.869385, Update Interval: 320.568878
+[2025.05.30-20.38.27:133][806]LogDerivedDataCache: C:/Users/alhaj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.30-20.42.24:345][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3941.222900
+[2025.05.30-20.42.25:345][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-20.42.25:345][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3941.889404, Update Interval: 341.004059
+[2025.05.30-20.48.48:043][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4324.925781
+[2025.05.30-20.48.49:043][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-20.48.49:043][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4325.592285, Update Interval: 353.034454
+[2025.05.30-20.55.21:450][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4718.348633
+[2025.05.30-20.55.22:450][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-20.55.22:450][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4719.015625, Update Interval: 319.034393
+[2025.05.30-20.56.32:792][602]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.05.30-20.56.32:830][603]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.05.30-20.56.50:304][453]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.05.30-20.57.00:952][560]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2025.05.30-20.57.00:956][560]LogContentBrowser: Creating deferred item: NewFolder1
+[2025.05.30-20.57.00:960][561]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2025.05.30-20.57.04:936][ 37]LogContentBrowser: Attempting asset rename: NewFolder1 -> Lasers
+[2025.05.30-20.57.04:937][ 37]LogContentBrowser: End creating deferred item NewFolder1
+[2025.05.30-20.57.08:592][434]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.30-20.57.08:611][434]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.30-20.57.08:616][435]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.30-20.57.19:479][705]LogContentBrowser: Attempting asset rename: NewFolder -> Puzzle3
+[2025.05.30-20.57.19:480][705]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.30-20.57.32:628][192]LogContentBrowser: Attempting asset rename: Lasers -> Puzzle3
+[2025.05.30-20.57.45:079][607]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.30-20.57.45:082][607]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.30-20.57.45:094][609]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.30-20.57.48:292][993]LogContentBrowser: Attempting asset rename: NewFolder -> Laser
+[2025.05.30-20.57.48:292][993]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: ================================================
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Total job queries 850, among them cache hits 26 (3.06%), DDC hits 97 (11.41%), Duplicates 66 (7.76%)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Tracking 758 distinct input hashes that result in 569 distinct outputs (75.07%)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: RAM used: 446.88 KiB of 3.10 GiB budget. Usage: 0.01%
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Shaders Compiled: 661
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Jobs assigned 661, completed 661 (100%)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Average time worker was idle: 198.46 s
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Time job spent in pending queue: average 7.08 s, longest 27.41 s
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Job execution time: average 3.81 s, max 28.02 s
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Job life time (pending + execution): average 10.89 s, max 28.96
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Shader code size: average 11.044 KiB, min 1.656 KiB, max 45.957 KiB
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 62.89 s
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.28%
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Jobs were issued in 109 batches (only local compilation was used), average 6.06 jobs/batch
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Average processing rate: 10.51 jobs/sec
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Total thread time: 262.433 s
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Total thread preprocess time: 5.089 s
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Percentage time preprocessing: 1.94%
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Effective parallelization: 4.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 (compiled    1 times, average 11.37 sec, max 11.37 sec, min 11.37 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   58 times, average 1.90 sec, max 5.44 sec, min 0.53 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.95 sec, max 1.65 sec, min 0.26 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 42.09% of total time (compiled   58 times, average 1.90 sec, max 5.44 sec, min 0.53 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.23% of total time (compiled   34 times, average 0.56 sec, max 9.27 sec, min 0.19 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 7.17% of total time (compiled   24 times, average 0.78 sec, max 0.91 sec, min 0.66 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.95% of total time (compiled   28 times, average 0.65 sec, max 1.21 sec, min 0.40 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 5.17% of total time (compiled   24 times, average 0.57 sec, max 0.76 sec, min 0.51 sec)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: === Material stats ===
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Materials Translated:    165
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Material Translation Only: 0.03 s (27%)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: Material Cache Hits: 18 (11%)
+[2025.05.30-20.57.49:763][167]LogShaderCompilers: Display: ================================================
+[2025.05.30-20.58.11:304][657]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2025.05.30-20.58.11:323][657]LogContentBrowser: Creating deferred item: NewInterface
+[2025.05.30-20.58.11:341][659]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2025.05.30-20.58.20:616][822]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2025.05.30-20.58.20:619][822]LogContentBrowser: End creating deferred item NewInterface
+[2025.05.30-20.58.32:493][164]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Lasers
+[2025.05.30-20.58.32:550][164]LogMetaData: Removing '/Game/Puzzle3/Lasers/BPI_Lasers.SKEL_BPI_Lasers_C' ref from Metadata '/Game/Puzzle3/Lasers/NewInterface.PackageMetaData'
+[2025.05.30-20.58.32:550][164]LogMetaData: Removing '/Game/Puzzle3/Lasers/BPI_Lasers.BPI_Lasers_C' ref from Metadata '/Game/Puzzle3/Lasers/NewInterface.PackageMetaData'
+[2025.05.30-20.58.32:550][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-20.58.32:550][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/BPI_Lasers] ([2] browsable assets)...
+[2025.05.30-20.58.32:550][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/BPI_Lasers]
+[2025.05.30-20.58.32:550][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzle3/Lasers/BPI_Lasers" FILE="../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BPI_Lasers.uasset" SILENT=true
+[2025.05.30-20.58.32:551][164]LogSavePackage: Moving output files for package: /Game/Puzzle3/Lasers/BPI_Lasers
+[2025.05.30-20.58.32:551][164]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/BPI_Lasers5CDB3A7C435B0BDB7B6AC3A8B4D7CEF0.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BPI_Lasers.uasset'
+[2025.05.30-20.58.32:553][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.833 ms (total: 247.237 ms)
+[2025.05.30-20.58.32:566][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.30-20.58.32:576][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.05.30-20.58.32:579][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.13ms
+[2025.05.30-20.58.32:621][164]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-20.58.32:621][164]LogContentValidation: Enabled validators:
+[2025.05.30-20.58.32:621][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-20.58.32:621][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-20.58.32:621][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-20.58.32:621][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-20.58.32:621][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-20.58.32:621][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-20.58.32:621][164]AssetCheck: /Game/Puzzle3/Lasers/BPI_Lasers Validating asset
+[2025.05.30-20.58.58:843][526]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.30-20.58.58:852][526]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.30-20.58.58:856][526]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.30-20.58.58:861][527]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.30-20.59.06:176][345]LogContentBrowser: Attempting asset rename: NewBlueprint -> A_LaserParent
+[2025.05.30-20.59.06:181][345]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.30-20.59.25:961][346]LogContentBrowser: Attempting asset rename: A_LaserParent -> A_LasersParent
+[2025.05.30-20.59.26:022][346]LogMetaData: Removing '/Game/Puzzle3/Lasers/A_LasersParent.A_LasersParent:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Puzzle3/Lasers/A_LaserParent.PackageMetaData'
+[2025.05.30-20.59.26:022][346]LogMetaData: Removing '/Game/Puzzle3/Lasers/A_LasersParent.SKEL_A_LasersParent_C:UserConstructionScript' ref from Metadata '/Game/Puzzle3/Lasers/A_LaserParent.PackageMetaData'
+[2025.05.30-20.59.26:022][346]LogMetaData: Removing '/Game/Puzzle3/Lasers/A_LasersParent.SKEL_A_LasersParent_C' ref from Metadata '/Game/Puzzle3/Lasers/A_LaserParent.PackageMetaData'
+[2025.05.30-20.59.26:022][346]LogMetaData: Removing '/Game/Puzzle3/Lasers/A_LasersParent.A_LasersParent_C' ref from Metadata '/Game/Puzzle3/Lasers/A_LaserParent.PackageMetaData'
+[2025.05.30-20.59.26:022][346]LogMetaData: Removing '/Game/Puzzle3/Lasers/A_LasersParent.A_LasersParent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Puzzle3/Lasers/A_LaserParent.PackageMetaData'
+[2025.05.30-20.59.26:022][346]LogMetaData: Removing '/Game/Puzzle3/Lasers/A_LasersParent.A_LasersParent:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Puzzle3/Lasers/A_LaserParent.PackageMetaData'
+[2025.05.30-20.59.26:022][346]LogMetaData: Removing '/Game/Puzzle3/Lasers/A_LasersParent.A_LasersParent:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Puzzle3/Lasers/A_LaserParent.PackageMetaData'
+[2025.05.30-20.59.26:023][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-20.59.26:023][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/A_LasersParent] ([2] browsable assets)...
+[2025.05.30-20.59.26:023][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/A_LasersParent]
+[2025.05.30-20.59.26:023][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzle3/Lasers/A_LasersParent" FILE="../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LasersParent.uasset" SILENT=true
+[2025.05.30-20.59.26:024][346]LogSavePackage: Moving output files for package: /Game/Puzzle3/Lasers/A_LasersParent
+[2025.05.30-20.59.26:025][346]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/A_LasersParent8250ECF94A7DDDBA21F97FA3F6A704DC.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LasersParent.uasset'
+[2025.05.30-20.59.26:027][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.330 ms (total: 252.567 ms)
+[2025.05.30-20.59.26:038][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.05.30-20.59.26:043][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.05.30-20.59.26:047][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2025.05.30-20.59.26:077][346]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-20.59.26:077][346]LogContentValidation: Enabled validators:
+[2025.05.30-20.59.26:077][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-20.59.26:077][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-20.59.26:077][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-20.59.26:077][346]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-20.59.26:077][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-20.59.26:077][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-20.59.26:077][346]AssetCheck: /Game/Puzzle3/Lasers/A_LasersParent Validating asset
+[2025.05.30-20.59.43:920][702]LogContentBrowser: Deferred new asset file creation: A_LasersParent_Child
+[2025.05.30-20.59.43:924][702]LogContentBrowser: Creating deferred item: A_LasersParent_Child
+[2025.05.30-20.59.43:928][703]LogContentBrowser: Renaming the item being created (Deferred Item: A_LasersParent_Child).
+[2025.05.30-20.59.48:317][230]LogContentBrowser: Attempting asset rename: A_LasersParent_Child -> A_Laser
+[2025.05.30-20.59.48:321][230]LogContentBrowser: End creating deferred item A_LasersParent_Child
+[2025.05.30-20.59.53:884][477]LogContentBrowser: Deferred new asset file creation: A_LasersParent_Child
+[2025.05.30-20.59.53:888][477]LogContentBrowser: Creating deferred item: A_LasersParent_Child
+[2025.05.30-20.59.53:892][478]LogContentBrowser: Renaming the item being created (Deferred Item: A_LasersParent_Child).
+[2025.05.30-20.59.58:492][ 26]LogContentBrowser: Attempting asset rename: A_LasersParent_Child -> A_LaserSpawn
+[2025.05.30-20.59.58:497][ 26]LogContentBrowser: End creating deferred item A_LasersParent_Child
+[2025.05.30-21.00.12:278][348]LogContentBrowser: Deferred new asset file creation: A_LasersParent_Child
+[2025.05.30-21.00.12:283][348]LogContentBrowser: Creating deferred item: A_LasersParent_Child
+[2025.05.30-21.00.12:288][349]LogContentBrowser: Renaming the item being created (Deferred Item: A_LasersParent_Child).
+[2025.05.30-21.00.17:227][936]LogContentBrowser: Attempting asset rename: A_LasersParent_Child -> A_LaserTarget
+[2025.05.30-21.00.17:232][936]LogContentBrowser: End creating deferred item A_LasersParent_Child
+[2025.05.30-21.00.27:382][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Puzzle3/Lasers/A_LasersParent.A_LasersParent
+[2025.05.30-21.00.27:382][133]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.30-21.00.27:437][133]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.30-21.00.28:315][133]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.05.30-21.00.28:316][133]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.05.30-21.01.17:979][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5074.841309
+[2025.05.30-21.01.18:978][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-21.01.18:978][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5075.507324, Update Interval: 304.863434
+[2025.05.30-21.07.10:998][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5427.866211
+[2025.05.30-21.07.11:998][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-21.07.11:998][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5428.533691, Update Interval: 300.223389
+[2025.05.30-21.08.59:048][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.30-21.08.59:049][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2025.05.30-21.08.59:050][817]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/A_Laser] ([2] browsable assets)...
+[2025.05.30-21.08.59:050][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/A_Laser]
+[2025.05.30-21.08.59:052][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Puzzle3/Lasers/A_Laser_Auto2
+[2025.05.30-21.08.59:052][817]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/A_Laser_Auto2DF1945FD45E8616AF46C21A3FA7154CC.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/Puzzle3/Lasers/A_Laser_Auto2.uasset'
+[2025.05.30-21.08.59:052][817]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/A_LaserSpawn] ([2] browsable assets)...
+[2025.05.30-21.08.59:052][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/A_LaserSpawn]
+[2025.05.30-21.08.59:054][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Puzzle3/Lasers/A_LaserSpawn_Auto2
+[2025.05.30-21.08.59:054][817]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/A_LaserSpawn_Auto24A42DAE945CB040F22AD2D8C71ACED4D.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/Puzzle3/Lasers/A_LaserSpawn_Auto2.uasset'
+[2025.05.30-21.08.59:054][817]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/A_LaserTarget] ([2] browsable assets)...
+[2025.05.30-21.08.59:054][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/A_LaserTarget]
+[2025.05.30-21.08.59:056][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Puzzle3/Lasers/A_LaserTarget_Auto2
+[2025.05.30-21.08.59:056][817]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/A_LaserTarget_Auto2CA3B006E4DA81FE0460D409E23B8B4FF.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/Puzzle3/Lasers/A_LaserTarget_Auto2.uasset'
+[2025.05.30-21.08.59:056][817]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.05.30-21.12.48:019][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5764.888184
+[2025.05.30-21.12.49:019][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-21.12.49:019][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5765.555176, Update Interval: 339.692993
+[2025.05.30-21.19.06:366][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6143.229980
+[2025.05.30-21.19.07:366][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-21.19.07:366][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6143.896484, Update Interval: 339.665527
+[2025.05.30-21.25.20:716][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6517.578125
+[2025.05.30-21.25.21:717][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-21.25.21:717][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6518.245605, Update Interval: 325.318756
+[2025.05.30-21.31.32:077][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6888.940918
+[2025.05.30-21.31.33:078][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.30-21.31.33:078][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6889.608398, Update Interval: 336.671661
+[2025.05.30-21.33.55:678][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-21.33.55:725][583]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/A_LasersParent] ([2] browsable assets)...
+[2025.05.30-21.33.55:725][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/A_LasersParent]
+[2025.05.30-21.33.55:725][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzle3/Lasers/A_LasersParent" FILE="../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LasersParent.uasset" SILENT=true
+[2025.05.30-21.33.55:727][583]LogSavePackage: Moving output files for package: /Game/Puzzle3/Lasers/A_LasersParent
+[2025.05.30-21.33.55:727][583]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/A_LasersParent2388F1E2404DEA80271272BA08108F7E.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LasersParent.uasset'
+[2025.05.30-21.33.55:740][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.569 ms (total: 314.137 ms)
+[2025.05.30-21.33.55:768][583]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.30-21.33.55:768][583]LogContentValidation: Enabled validators:
+[2025.05.30-21.33.55:768][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-21.33.55:768][583]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-21.33.55:768][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-21.33.55:768][583]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-21.33.55:768][583]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-21.33.55:768][583]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-21.33.55:768][583]AssetCheck: /Game/Puzzle3/Lasers/A_LasersParent Validating asset
+[2025.05.30-21.33.57:418][721]LogSlate: Window 'A_LasersParent' being destroyed
+[2025.05.30-21.33.57:441][721]LogSlate: Window 'A_LasersParent' being destroyed
+[2025.05.30-21.33.57:443][721]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.30-21.33.57:443][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.30-21.33.57:471][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.30-21.33.59:078][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-21.33.59:138][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.05.30-21.33.59:145][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.05.30-21.33.59:151][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.30-21.33.59:160][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.726 ms (total: 395.863 ms)
+[2025.05.30-21.34.01:105][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.05.30-21.34.01:107][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.30-21.34.01:136][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/A_Laser] ([2] browsable assets)...
+[2025.05.30-21.34.01:136][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/A_Laser]
+[2025.05.30-21.34.01:136][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzle3/Lasers/A_Laser" FILE="../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_Laser.uasset" SILENT=true
+[2025.05.30-21.34.01:138][104]LogSavePackage: Moving output files for package: /Game/Puzzle3/Lasers/A_Laser
+[2025.05.30-21.34.01:138][104]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/A_Laser687BAFAB42CF6F586A401DB4C6B7099C.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_Laser.uasset'
+[2025.05.30-21.34.01:139][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/A_LaserSpawn] ([2] browsable assets)...
+[2025.05.30-21.34.01:139][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/A_LaserSpawn]
+[2025.05.30-21.34.01:139][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzle3/Lasers/A_LaserSpawn" FILE="../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserSpawn.uasset" SILENT=true
+[2025.05.30-21.34.01:141][104]LogSavePackage: Moving output files for package: /Game/Puzzle3/Lasers/A_LaserSpawn
+[2025.05.30-21.34.01:141][104]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/A_LaserSpawn2214FC4441C6A047BF9F67B14D3E47A4.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserSpawn.uasset'
+[2025.05.30-21.34.01:142][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzle3/Lasers/A_LaserTarget] ([2] browsable assets)...
+[2025.05.30-21.34.01:142][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzle3/Lasers/A_LaserTarget]
+[2025.05.30-21.34.01:142][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Puzzle3/Lasers/A_LaserTarget" FILE="../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserTarget.uasset" SILENT=true
+[2025.05.30-21.34.01:144][104]LogSavePackage: Moving output files for package: /Game/Puzzle3/Lasers/A_LaserTarget
+[2025.05.30-21.34.01:144][104]LogSavePackage: Moving '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Saved/A_LaserTargetE87CC4AF430C11E01F1C8C9442FD0F7B.tmp' to '../../../../../SAE/Unreal/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserTarget.uasset'
+[2025.05.30-21.34.01:151][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.810 ms (total: 439.673 ms)
+[2025.05.30-21.34.01:180][104]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.30-21.34.01:180][104]LogContentValidation: Enabled validators:
+[2025.05.30-21.34.01:180][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.30-21.34.01:180][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.30-21.34.01:180][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.30-21.34.01:180][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.30-21.34.01:180][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.30-21.34.01:180][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.30-21.34.01:181][104]AssetCheck: /Game/Puzzle3/Lasers/A_Laser Validating asset
+[2025.05.30-21.34.01:181][104]AssetCheck: /Game/Puzzle3/Lasers/A_LaserSpawn Validating asset
+[2025.05.30-21.34.01:181][104]AssetCheck: /Game/Puzzle3/Lasers/A_LaserTarget Validating asset
