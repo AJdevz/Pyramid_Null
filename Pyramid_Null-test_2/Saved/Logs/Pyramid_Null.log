@@ -1983,3 +1983,155 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.03-10.45.32:536][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.06.03-10.45.32:536][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.06.03-10.45.32:536][781]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.06.03-10.50.43:036][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2434.701904
+[2025.06.03-10.50.43:182][392]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-10.50.43:183][392]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2434.832031, Update Interval: 343.009125
+[2025.06.03-10.51.35:829][507]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.03-10.51.35:843][507]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.03-10.51.35:843][507]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.06.03-10.51.35:852][507]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 9.004 ms
+[2025.06.03-10.51.35:855][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.03-10.51.35:870][507]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.06.03-10.51.35:870][507]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.06.03-10.51.35:872][507]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.06.03-10.51.35:888][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016191s)
+[2025.06.03-10.51.35:888][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.016240s)
+[2025.06.03-10.51.35:901][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.06.03-10.51.35:904][507]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.06.03-10.51.35:906][507]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.03-10.51.35:906][507]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.03-10.51.35:906][507]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.03-10.51.35:907][507]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.03-10.51.35:912][507]LogWorldPartition: Display: WorldPartition initialize took 5.437 ms (total: 236.487 ms)
+[2025.06.03-10.51.35:912][507]LogPlayLevel: PIE: World Init took: (0.007759s)
+[2025.06.03-10.51.35:913][507]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.06.03-10.51.35:913][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.03-10.51.35:913][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.03-10.51.35:913][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.03-10.51.35:913][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.03-10.51.35:913][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.06.03-10.51.35:913][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.03-10.51.35:913][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.06.03-10.51.35:913][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.03-10.51.35:913][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.03-10.51.35:913][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.03-10.51.35:913][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.03-10.51.35:915][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.03-10.51.35:926][507]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.06.03-10.51.35:927][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.03-10.51.35:927][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.03-10.51.35:927][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.03-10.51.35:927][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.06.03-10.51.35:927][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.06.03-10.51.35:929][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.06.03-10.51.35:929][507]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=2
+[2025.06.03-10.51.35:929][507]LogInit: FAudioDevice initialized with ID 2.
+[2025.06.03-10.51.35:929][507]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.06.03-10.51.35:929][507]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10540
+[2025.06.03-10.51.35:929][507]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2025.06.03-10.51.35:929][507]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.06.03-10.51.35:935][507]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.06.03-10.51.35:947][507]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.06.03-11.51.35
+[2025.06.03-10.51.35:948][507]LogWorld: Bringing up level for play took: 0.012070
+[2025.06.03-10.51.35:951][507]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.06.03-10.51.35:978][507]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.06.03-10.51.35:996][507]PIE: Server logged in
+[2025.06.03-10.51.35:997][507]PIE: Play in editor total start time 0.154 seconds.
+[2025.06.03-10.51.36:258][511]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.06.03-10.51.36:258][511]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.06.03-10.54.14:791][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.03-10.54.14:791][396]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.06.03-10.54.14:792][396]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.03-10.54.14:794][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.03-10.54.14:794][396]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.06.03-10.54.14:798][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.03-10.54.14:801][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.03-10.54.14:815][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.03-10.54.14:816][396]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.06.03-10.54.14:818][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.06.03-10.54.14:820][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.06.03-10.54.14:820][396]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=2
+[2025.06.03-10.54.14:828][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.06.03-10.54.14:891][397]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.06.03-10.55.15:220][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.06.03-10.55.15:222][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3G/0FMIOVDIMS0OMBHCSML6IZ_Auto3
+[2025.06.03-10.55.15:223][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/0FMIOVDIMS0OMBHCSML6IZ_Auto3BE80C85E4C7C3EA1DB7CEBBDDB2D8494.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3G/0FMIOVDIMS0OMBHCSML6IZ_Auto3.uasset'
+[2025.06.03-10.55.15:224][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5K/T9IPF8N74GWKNY1JI73XLX_Auto3
+[2025.06.03-10.55.15:224][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/T9IPF8N74GWKNY1JI73XLX_Auto37EC808B144709AC0A43F07A0FCFB6A91.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5K/T9IPF8N74GWKNY1JI73XLX_Auto3.uasset'
+[2025.06.03-10.55.15:225][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RV/WAGKWDRQ757NQXZHOMJGGK_Auto3
+[2025.06.03-10.55.15:225][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/WAGKWDRQ757NQXZHOMJGGK_Auto3C2D11F1B4CEF787376A663AF54001EF1.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RV/WAGKWDRQ757NQXZHOMJGGK_Auto3.uasset'
+[2025.06.03-10.55.15:227][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/ENIL6TFR4VKKFSFTKP9GHC_Auto3
+[2025.06.03-10.55.15:227][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/ENIL6TFR4VKKFSFTKP9GHC_Auto3A06574DF412A0033FEE14399388B953F.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/ENIL6TFR4VKKFSFTKP9GHC_Auto3.uasset'
+[2025.06.03-10.55.15:228][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8F/8CH8O6W5K8QGNF32DEKOEI_Auto3
+[2025.06.03-10.55.15:228][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/8CH8O6W5K8QGNF32DEKOEI_Auto34D4E2C5743C141C5BC512C9B2153394E.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8F/8CH8O6W5K8QGNF32DEKOEI_Auto3.uasset'
+[2025.06.03-10.55.15:229][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9Y/JKXVK9B3N53M6KQ0EXNI5K_Auto3
+[2025.06.03-10.55.15:229][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/JKXVK9B3N53M6KQ0EXNI5K_Auto39680BE41489DFBEEEEDB97A41B16B309.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9Y/JKXVK9B3N53M6KQ0EXNI5K_Auto3.uasset'
+[2025.06.03-10.55.15:231][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/HT/CL2242JALXEGA4R489S5A3_Auto3
+[2025.06.03-10.55.15:231][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/CL2242JALXEGA4R489S5A3_Auto3EC74AA5743C2A1C03B4354A4AE8380C4.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/HT/CL2242JALXEGA4R489S5A3_Auto3.uasset'
+[2025.06.03-10.55.15:234][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/L6/JW2UNSE52EI4CZL9CBBFL8_Auto3
+[2025.06.03-10.55.15:234][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/JW2UNSE52EI4CZL9CBBFL8_Auto3E4CFE5874B981F26322368989FE13380.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/L6/JW2UNSE52EI4CZL9CBBFL8_Auto3.uasset'
+[2025.06.03-10.55.15:236][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OD/C3H7NY0KIDMNSRX4IYSLCK_Auto3
+[2025.06.03-10.55.15:236][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/C3H7NY0KIDMNSRX4IYSLCK_Auto30B8461A24859B7BA0A9435BC92FBB9A9.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OD/C3H7NY0KIDMNSRX4IYSLCK_Auto3.uasset'
+[2025.06.03-10.55.15:237][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D7/A4XN880VTXFVYLIH40P8QI_Auto3
+[2025.06.03-10.55.15:237][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/A4XN880VTXFVYLIH40P8QI_Auto3BBCB9BEE41174E9FC2F28F8710B4E938.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D7/A4XN880VTXFVYLIH40P8QI_Auto3.uasset'
+[2025.06.03-10.55.15:239][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T8/J5O4QFEB30TQMMYDJJ7ZJ3_Auto3
+[2025.06.03-10.55.15:239][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/J5O4QFEB30TQMMYDJJ7ZJ3_Auto306A5AA8841CCCB51BE447AA372B0F673.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T8/J5O4QFEB30TQMMYDJJ7ZJ3_Auto3.uasset'
+[2025.06.03-10.55.15:241][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BQ/PWQEU8NOQJQ8PWJQIRXTPZ_Auto3
+[2025.06.03-10.55.15:241][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/PWQEU8NOQJQ8PWJQIRXTPZ_Auto3D1D3894D41845B3450450C901ECEFB52.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BQ/PWQEU8NOQJQ8PWJQIRXTPZ_Auto3.uasset'
+[2025.06.03-10.55.15:243][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NY/1QPGV3SO4COGA76EQZHZNI_Auto3
+[2025.06.03-10.55.15:243][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/1QPGV3SO4COGA76EQZHZNI_Auto3A4AE6B514B6E7631C89E2DA31D299568.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NY/1QPGV3SO4COGA76EQZHZNI_Auto3.uasset'
+[2025.06.03-10.55.15:243][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.036
+[2025.06.03-10.55.15:243][140]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2025.06.03-10.56.57:602][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2809.255859
+[2025.06.03-10.56.57:742][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-10.56.57:742][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2809.380615, Update Interval: 352.937408
+[2025.06.03-11.00.43:872][371]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.06.03-11.00.43:872][371]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.06.03-11.00.44:944][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.06.03-11.00.44:947][441]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.06.03-11.00.44:954][441]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.06.03-11.00.44:954][441]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.06.03-11.00.52:355][902]Cmd: TRANSACTION UNDO
+[2025.06.03-11.00.52:355][902]LogEditorTransaction: Undo Move Elements
+[2025.06.03-11.00.53:285][941]Cmd: TRANSACTION UNDO
+[2025.06.03-11.00.53:285][941]LogEditorTransaction: Undo Place Objects
+[2025.06.03-11.01.49:459][802]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_1C697AF95BE5836E02_1600397781 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/MX/Q6LGAWMS2Z0ZIHG9O2K2B6.PackageMetaData in its package
+[2025.06.03-11.01.49:460][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.06.03-11.01.49:466][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.03-11.01.49:521][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3G/0FMIOVDIMS0OMBHCSML6IZ
+[2025.06.03-11.01.49:522][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/0FMIOVDIMS0OMBHCSML6IZ873EEAD6416E773B47779F948ED43361.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3G/0FMIOVDIMS0OMBHCSML6IZ.uasset'
+[2025.06.03-11.01.49:523][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5K/T9IPF8N74GWKNY1JI73XLX
+[2025.06.03-11.01.49:524][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/T9IPF8N74GWKNY1JI73XLXBA587B0D46AE924A40DCA5B04CA0DAE2.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5K/T9IPF8N74GWKNY1JI73XLX.uasset'
+[2025.06.03-11.01.49:526][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RV/WAGKWDRQ757NQXZHOMJGGK
+[2025.06.03-11.01.49:526][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/WAGKWDRQ757NQXZHOMJGGK6D3C036140BA732E95B85EA9927BE34C.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RV/WAGKWDRQ757NQXZHOMJGGK.uasset'
+[2025.06.03-11.01.49:528][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/ENIL6TFR4VKKFSFTKP9GHC
+[2025.06.03-11.01.49:529][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/ENIL6TFR4VKKFSFTKP9GHC8F82AAFA456841C5CF3484A03567C600.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/ENIL6TFR4VKKFSFTKP9GHC.uasset'
+[2025.06.03-11.01.49:530][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8F/8CH8O6W5K8QGNF32DEKOEI
+[2025.06.03-11.01.49:531][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/8CH8O6W5K8QGNF32DEKOEI34F7F28245B3F5579BCF72942BF015F2.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8F/8CH8O6W5K8QGNF32DEKOEI.uasset'
+[2025.06.03-11.01.49:533][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9Y/JKXVK9B3N53M6KQ0EXNI5K
+[2025.06.03-11.01.49:533][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/JKXVK9B3N53M6KQ0EXNI5K6E40D40F48122CFD963D86A44C318E93.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9Y/JKXVK9B3N53M6KQ0EXNI5K.uasset'
+[2025.06.03-11.01.49:535][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/HT/CL2242JALXEGA4R489S5A3
+[2025.06.03-11.01.49:535][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/CL2242JALXEGA4R489S5A3D9F3CBEC4307F9E2BE9824ADDFBFEE7E.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/HT/CL2242JALXEGA4R489S5A3.uasset'
+[2025.06.03-11.01.49:537][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/L6/JW2UNSE52EI4CZL9CBBFL8
+[2025.06.03-11.01.49:538][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/JW2UNSE52EI4CZL9CBBFL8BC0D796D4CE9ED4A1D8E87B8B1C1B5E9.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/L6/JW2UNSE52EI4CZL9CBBFL8.uasset'
+[2025.06.03-11.01.49:540][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OD/C3H7NY0KIDMNSRX4IYSLCK
+[2025.06.03-11.01.49:540][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/C3H7NY0KIDMNSRX4IYSLCK3635A4F4450A64CF504477B73F1C31D5.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OD/C3H7NY0KIDMNSRX4IYSLCK.uasset'
+[2025.06.03-11.01.49:542][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D7/A4XN880VTXFVYLIH40P8QI
+[2025.06.03-11.01.49:542][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/A4XN880VTXFVYLIH40P8QI8DD5E5E64AF67F697AB4FF8CF322339D.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D7/A4XN880VTXFVYLIH40P8QI.uasset'
+[2025.06.03-11.01.49:544][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T8/J5O4QFEB30TQMMYDJJ7ZJ3
+[2025.06.03-11.01.49:545][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/J5O4QFEB30TQMMYDJJ7ZJ33EB64E7E44F272D869D316A9529938F5.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T8/J5O4QFEB30TQMMYDJJ7ZJ3.uasset'
+[2025.06.03-11.01.49:547][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BQ/PWQEU8NOQJQ8PWJQIRXTPZ
+[2025.06.03-11.01.49:547][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/PWQEU8NOQJQ8PWJQIRXTPZC09250FC4D5287F6C617F6ACF0C4B33D.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BQ/PWQEU8NOQJQ8PWJQIRXTPZ.uasset'
+[2025.06.03-11.01.49:549][802]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NY/1QPGV3SO4COGA76EQZHZNI
+[2025.06.03-11.01.49:549][802]LogSavePackage: Moving '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Saved/1QPGV3SO4COGA76EQZHZNI4530B0DB4958257AA752A69429299ACE.tmp' to '../../../../../../Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NY/1QPGV3SO4COGA76EQZHZNI.uasset'
+[2025.06.03-11.01.49:557][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.066 ms (total: 461.774 ms)
+[2025.06.03-11.01.49:599][802]LogContentValidation: Display: Starting to validate 13 assets
+[2025.06.03-11.01.49:599][802]LogContentValidation: Enabled validators:
+[2025.06.03-11.01.49:599][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.03-11.01.49:599][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.03-11.01.49:600][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.03-11.01.49:600][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.03-11.01.49:600][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.03-11.01.49:600][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.03-11.01.49:600][802]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.06.03-11.01.49:615][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
