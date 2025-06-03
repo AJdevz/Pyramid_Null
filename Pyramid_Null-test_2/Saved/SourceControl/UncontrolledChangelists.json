@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3G/0FMIOVDIMS0OMBHCSML6IZ.uasset",
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/HQ/LEUUJ4RCGYYEPS4KBFO3EV.uasset",
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/28/5VBNXESIHEYO5TTQHHOMQ7.uasset",
@@ -108,6 +109,18 @@
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KE/QBAIRX95UNMFDB41WVUFII.uasset",
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/IQ/GD3KSJLBCBPVCIV782FK90.uasset",
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FK/HFVY6IHIBZEKR2XELTG4M6.uasset",
+=======
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WW/XGJNT2SJ7NKPXJEYWWUIAA.uasset",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/I2/EB2KCBRERX7VX8WQYO78OP.uasset",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/9V/M1F676DU8U06S0ZI8RI0U4.uasset",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/FirstPerson/Blueprints/WallTimer.uasset",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/C6/FX70F62MTCJXWE1ZA80Q0N.uasset",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BB/YTGIF8WELO6ALNLG66WPXV.uasset",
+				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/J0/YYXFZEZM9U4ARCD468080N.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/GameOverMenu/WP_GameOver.uasset",
 				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/GameOverMenu/WB_GameOver.uasset",
 				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
