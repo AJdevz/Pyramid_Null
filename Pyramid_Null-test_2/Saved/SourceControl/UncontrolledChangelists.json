@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/GameOverMenu/WP_GameOver.uasset",
+				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/GameOverMenu/WB_GameOver.uasset",
+				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/GameOverMenu/Timer.uasset",
+				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/Abdul/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/BM/LI3U3CDLUYE33PXBUFQGHB.uasset",
 				"C:/Users/Abdul/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/0M/L8B60B61QJT6XUUZOVRRSM.uasset",
 				"C:/Users/Abdul/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/HQ/LEUUJ4RCGYYEPS4KBFO3EV.uasset",
