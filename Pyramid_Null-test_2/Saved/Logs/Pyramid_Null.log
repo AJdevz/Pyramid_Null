@@ -1786,3 +1786,9 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.03-10.44.31:574][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.06.03-10.44.31:574][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.06.03-10.44.31:575][ 68]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.06.03-10.45.49:828][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.03-10.45.50:013][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.06.03-10.45.50:024][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.06.03-10.45.50:030][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.06.03-10.45.50:035][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.933 ms (total: 290.877 ms)
+[2025.06.03-10.45.53:671][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
