@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/J0/YYXFZEZM9U4ARCD468080N.uasset",
 				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/hhmuf/OneDrive/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/GameOverMenu/Timer.uasset",
@@ -165,6 +166,22 @@
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/78/0QWZF596ILTE4U1BC4N23G.uasset",
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/B2/PNV6HFJ3ELS9VLUBCNCLHC.uasset",
 				"C:/Users/Student/Documents/GitHub/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/9V/12QRD6KB6NLQAWYQH023WL.uasset"
+=======
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LasersParent.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserReflect.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserTarget.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_LaserSpawn.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BPI_Lasers.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BP_Laser.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/A_Laser.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BP_LaserTarget.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BP_LaserSpawn.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BP_LasersParent.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/Puzzle3/Lasers/BP_LaserReflect.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZW/NTBIVOHOX8A1VPQD5JEGAE.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/C8/IQBPDEDY2C0JYJS32VB4TG.uasset",
+				"C:/Users/Student/Documents/AJ/Unreal/101 Project/Pyramid_Null/Pyramid_Null-test_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9J/Z2OS23EARW7W2EGQWCQ5VI.uasset"
+>>>>>>> 3c3edf652e93ae9fe2a3be062d30e2fed62dd14d
 			]
 		}
 	]
